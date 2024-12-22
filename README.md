@@ -32,13 +32,17 @@ docker build -t apps_for_computers .
 ```
 3. Запуск контейнера
 ```
-docker run --rm -v $(pwd)/output:/output apps_for_computers
+docker run --rm -v $(pwd)/Computer_app:/Computer_app apps_for_computers
 ```
-4. Даем права на выполнение
+4. Заходим в директорию Computer_app
+```
+cd Computer_app
+```
+5. Даем права на выполнение
 ```
 chmod +x Apps_for_computers
 ```
-5. Запускаем приложение (нужны права суперпользователя) 
+6. Запускаем приложение (нужны права суперпользователя) 
 ```
 sudo ./Apps_for_computers
 ```
