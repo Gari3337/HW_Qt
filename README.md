@@ -38,7 +38,10 @@ docker run --rm -v $(pwd)/output:/output apps_for_computers
 ```
 chmod +x Apps_for_computers
 ```
-
+5. Запускаем приложение (нужны права суперпользователя) 
+```
+sudo ./Apps_for_computers
+```
 
 
 
