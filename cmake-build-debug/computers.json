@@ -1,0 +1,14 @@
+{
+    "computers": [
+        {
+            "end_of_life_date": "",
+            "mac": "",
+            "model": "",
+            "number": "123",
+            "os": "",
+            "production_date": "",
+            "supplier": "",
+            "type": "123"
+        }
+    ]
+}

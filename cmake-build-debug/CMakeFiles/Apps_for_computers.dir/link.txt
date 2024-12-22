@@ -1,0 +1,1 @@
+/usr/bin/c++ -g -rdynamic CMakeFiles/Apps_for_computers.dir/Apps_for_computers_autogen/mocs_compilation.cpp.o CMakeFiles/Apps_for_computers.dir/hw_bmstu.cpp.o -o Apps_for_computers  /usr/lib/x86_64-linux-gnu/libQt5Widgets.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Gui.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Network.so.5.15.3 /usr/lib/x86_64-linux-gnu/libQt5Core.so.5.15.3 

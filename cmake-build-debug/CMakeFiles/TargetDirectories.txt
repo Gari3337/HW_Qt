@@ -1,0 +1,4 @@
+/home/igorstark/Apps_for_computers_linux/cmake-build-debug/CMakeFiles/Apps_for_computers.dir
+/home/igorstark/Apps_for_computers_linux/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/igorstark/Apps_for_computers_linux/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/igorstark/Apps_for_computers_linux/cmake-build-debug/CMakeFiles/Apps_for_computers_autogen.dir
