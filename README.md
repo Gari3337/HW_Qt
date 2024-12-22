@@ -1,1 +1,1 @@
-# HW_Qt
+#computer accounting application
