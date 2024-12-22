@@ -6,4 +6,9 @@ _____
 
 ### Установка
 
+1. Клонируйте репозиторий 
+```bash
+git clone https://github.com/Gari3337/HW_Qt ```
+
+
 
