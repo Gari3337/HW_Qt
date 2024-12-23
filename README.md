@@ -28,7 +28,7 @@ git clone https://github.com/Gari3337/HW_Qt
 ```
 2. Перейдите в загруженную директорию
 ```
-cd HW_QT
+cd HW_Qt
 ```
 3. Собираем Docker-образ
 ```bash
