@@ -14,7 +14,8 @@ RUN apt-get update && apt-get install -y \
     libqt5network5 \
     libqt5core5a \
     qt5-qmake \
-    nlohmann-json3-dev
+    nlohmann-json3-dev \
+    libqt5widgets5
 
 RUN ln -fs /usr/share/zoneinfo/$TZ /etc/localtime && \
     dpkg-reconfigure -f noninteractive tzdata
