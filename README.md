@@ -32,11 +32,11 @@ cd HW_Qt
 ```
 3. Собираем Docker-образ
 ```bash
-docker build -t apps_for_computers .
+sudo docker build -t apps_for_computers .
 ```
 4. Запуск контейнера
 ```
-docker run --rm -v $(pwd)/Computer_app:/Computer_app apps_for_computers
+sudo docker run --rm -v $(pwd)/Computer_app:/Computer_app apps_for_computers
 ```
 5. Заходим в директорию Computer_app
 ```
