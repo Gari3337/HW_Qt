@@ -26,23 +26,27 @@ ____
 ```bash
 git clone https://github.com/Gari3337/HW_Qt
 ```
-2. Собираем Docker-образ
+2. Перейдите в загруженную директорию
+```
+cd HW_QT
+```
+3. Собираем Docker-образ
 ```bash
 docker build -t apps_for_computers .
 ```
-3. Запуск контейнера
+4. Запуск контейнера
 ```
 docker run --rm -v $(pwd)/Computer_app:/Computer_app apps_for_computers
 ```
-4. Заходим в директорию Computer_app
+5. Заходим в директорию Computer_app
 ```
 cd Computer_app
 ```
-5. Даем права на выполнение
+6. Даем права на выполнение
 ```
-chmod +x Apps_for_computers
+sudo chmod +x Apps_for_computers
 ```
-6. Запускаем приложение (нужны права суперпользователя) 
+7. Запускаем приложение (нужны права суперпользователя) 
 ```
 sudo ./Apps_for_computers
 ```
